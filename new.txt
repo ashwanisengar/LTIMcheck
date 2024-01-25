@@ -1,2 +1,3 @@
-learning sparek using python
+learning spark using python
 Python is an easy to learn language
+with push in github
