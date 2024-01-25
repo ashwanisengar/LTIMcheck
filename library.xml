@@ -1,0 +1,15 @@
+<library>
+	<book>
+		<title>The hadoop guide</title>
+		<author>Tom White </author>
+		
+		<price> 600 </price>
+		
+	</book>
+	<book>
+		<title>Learning Spark </title>
+		<author>Brooke </author>
+		<price>700 </price>
+	</book>	
+</library>	
+	
